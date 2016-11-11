@@ -12,7 +12,4 @@ public class Importation {
         return 0;
     }
     
-    public int division2(int a, int b) {
-        return 0;
-    }
 }
