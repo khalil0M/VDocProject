@@ -11,6 +11,4 @@ public class Importation {
     public int division() {
         return 0;
     }
-
-   
 }
