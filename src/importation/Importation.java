@@ -11,5 +11,7 @@ public class Importation {
     public int division() {
         return 0;
     }
-    
+    public int division3() {
+        return 0;
+    }
 }
